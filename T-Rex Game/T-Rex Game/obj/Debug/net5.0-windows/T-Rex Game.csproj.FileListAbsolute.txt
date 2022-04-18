@@ -1,0 +1,19 @@
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.exe
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.deps.json
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.json
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Form1.resources
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Properties.Resources.resources
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\ACER\Desktop\Lập trình Window\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.genruntimeconfig.cache
